@@ -1,0 +1,7 @@
+{
+  "name": "VCAZ Assistant",
+  "description": "A conversational customer service AI for VCAZ Digital Marketing Agency using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
